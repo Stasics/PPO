@@ -10,16 +10,6 @@
 | `<Аптышаев Джелял` | Аналитик процессов |
 | `<Борисов Фёдор>` | Аналитик требований | 
 
-## Что сделано
-
-
-| — | Разбор заданий, выбор темы, распределение ролей | — | Вся команда | — |
-| 1 | Vision & Scope | [docs/01-vision-scope.md](docs/01-vision-scope.md) 
-| 2 | Use Case Diagram | [docs/02-use-cases.md](docs/02-use-cases.md) 
-| 3 | Activity Diagram | [docs/03-activity-diagrams.md](docs/03-activity-diagrams.md) 
-| 4 | Термины, правила, сущности | [docs/04-domain-model.md](docs/04-domain-model.md) 
-| 5 | Требования и диаграмма классов | [docs/05-requirements.md](docs/05-requirements.md) 
-| — | Словарь терминов, оформление | [GLOSSARY.md](GLOSSARY.md) 
 
 ## Групповые активности
 
